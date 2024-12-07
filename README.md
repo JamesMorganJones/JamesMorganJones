@@ -1,3 +1,5 @@
+nodejs
+npm
  git clone https://github.com/ashutosh1919/masterPortfolio.git
 - 👋 Hi, My names is James Jones 
 - 🌱 I’m currently learning  computer science at the University of southwales
