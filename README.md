@@ -22,7 +22,6 @@ My full name is James Morgan Jones but I normally go by James Jones
 
 - ⚡ Fun fact:
 - I am Intrested in History
-  - T
 - My favourite games are:
   - Saints Row Sereis
              - <a href="https://www.youtube.com/watch?v=PIS_0coqo4Q"> Collection of every Saints row 2 trailers </a>
