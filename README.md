@@ -13,9 +13,6 @@ npm
 
 ![image](https://github.com/user-attachments/assets/fa6e124e-b948-4041-b716-090b405c8bab)
 
-
-
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: He/Him
