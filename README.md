@@ -25,10 +25,16 @@ My full name is James Morgan Jones but I normally go by James Jones
   - T
 - My favourite games are:
   - Saints Row Sereis
+           - <a href="https://www.youtube.com/watch?v=PIS_0coqo4Q"> Collection of Saints row 2 trailers </a>
+           - <a href="https://www.youtube.com/watch?v=csTf2Z7xlQ0"> Saints Row 3 trailer </a> 
   - Red faction guerrilla
+       - <a href="https://www.youtube.com/watch?v=20D1o6H5FUE"> Red faction Guerrilla trailer </a> 
   -  Star wasr the Force unleshed 1 & 2
+           - <a href="">  trailer </a> 
   -  Little Big Planer series
+            - <a href="">  trailer </a> 
   -  Infamous Sereis
+            - <a href="">  trailer </a> 
 - My favourite films are:
   - Star wars Franchise
   - Pacifice Rim
