@@ -1,6 +1,6 @@
-$ git clone https://github.com/JamesMorganJones/JamesMorganJones.github.io
-$ cd JamesMorganJones.github.io
-$ echo "Helo world" >index.html
-$ git add --all
-$ git commit -m "Initial commit"
-$ git push -u origin main
+$ git init
+$ git add .
+$ git commit -m "First commit"
+$ git remote add origin remote <https://github.com/JamesMorganJones/JamesMorganJones.github.io>
+$ git remote -v
+$ git push -u origin master
